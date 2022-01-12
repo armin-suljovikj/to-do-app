@@ -1,4 +1,4 @@
-# to-do-app
+# To do list app
 Hi everyone!
 
 This is my first ever published React app and it's a to-do list. 
