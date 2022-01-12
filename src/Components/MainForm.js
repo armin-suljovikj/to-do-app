@@ -3,8 +3,11 @@ import './../CSS/MainForm.css';
 import List from './List';
 import {library} from '@fortawesome/fontawesome-svg-core';
 import {faTrash} from '@fortawesome/free-solid-svg-icons'
+import { toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css'
  
 library.add(faTrash);
+toast.configure();
 
 function MainForm() {
 
@@ -13,6 +16,11 @@ function MainForm() {
     const [id, setId] = useState(0);
     
     const addItem = () => {
+
+        if(!inputValue || /^\s*$/.test(inputValue)){
+            toast("you can't input empty value!", {position: toast.POSITION.BOTTOM_CENTER});
+            return;
+        }
         
         const newItemList = [{id: id, text: inputValue}, ...itemList];
         setId((prevId) => (prevId + 1));
