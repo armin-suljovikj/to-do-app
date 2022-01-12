@@ -14,4 +14,4 @@ The app was built mainly using functional components and hooks, also using the f
 
 # credits
 Credits go to @abarna1908, mainly for instructions on how to build this. In the original code class components are used, but I re-built the app using Hooks.
-https://github.com/abarna1908/To-do-App-in-React-Code
+https://github.com/abarna1908/To-do-App-in-React-Code 
