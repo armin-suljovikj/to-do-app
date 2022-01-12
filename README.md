@@ -12,7 +12,7 @@ The app was built mainly using functional components and hooks, also using the f
 - https://github.com/FortAwesome/react-fontawesome
 - https://github.com/joshwcomeau/react-flip-move
 
-# The published To-do App:
+# The published To-do App
 - https://armin-suljovikj.github.io/to-do-app/
 
 # Credits
