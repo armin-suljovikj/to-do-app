@@ -10,7 +10,7 @@ A simple all which allows you to add tasks and remove them from a list
 The app was built mainly using functional components and hooks, also using the following libraries:
 - https://www.npmjs.com/package/react-toastify
 - https://github.com/FortAwesome/react-fontawesome
-- https://github.com/joshwcomeau/react-flip-move]
+- https://github.com/joshwcomeau/react-flip-move
 
 # The published To-do App:
 - https://armin-suljovikj.github.io/to-do-app/
