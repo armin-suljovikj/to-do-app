@@ -15,6 +15,20 @@ The app was built mainly using functional components and hooks, also using the f
 # The published To-do App
 - https://armin-suljovikj.github.io/to-do-app/
 
+# Commands to use if you are trying to run this on your machine
+
+- Commands used to install Font awesome:
+
+$ npm i --save @fortawesome/fontawesome-svg-core
+
+$ npm i --save @fortawesome/free-solid-svg-icons
+
+$ npm i --save @fortawesome/react-fontawesome
+
+- Commands used to install flip move:
+
+npm i -S react-flip-move
+
 # Credits
 Credits go to @abarna1908, mainly for instructions on how to build this. In the original code class components are used, but I re-built the app using Hooks.
 https://github.com/abarna1908/To-do-App-in-React-Code 
