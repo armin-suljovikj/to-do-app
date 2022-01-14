@@ -17,7 +17,7 @@ The app was built mainly using functional components and hooks, also using the f
 
 # Commands to use if you are trying to run this on your machine
 
-- Commands used to install Font awesome:
+**Commands used to install Font awesome:**
 
 $ npm i --save @fortawesome/fontawesome-svg-core
 
@@ -25,7 +25,7 @@ $ npm i --save @fortawesome/free-solid-svg-icons
 
 $ npm i --save @fortawesome/react-fontawesome
 
-- Commands used to install flip move:
+**Commands used to install flip move:**
 
 npm i -S react-flip-move
 
