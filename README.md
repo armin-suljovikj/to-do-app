@@ -29,6 +29,10 @@ $ npm i --save @fortawesome/react-fontawesome
 
 npm i -S react-flip-move
 
+**Commands used to install toastify:**
+
+npm add react-toastify
+
 # Credits
 Credits go to @abarna1908, mainly for instructions on how to build this. In the original code class components are used, but I re-built the app using Hooks.
 https://github.com/abarna1908/To-do-App-in-React-Code 
