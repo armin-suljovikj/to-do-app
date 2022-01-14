@@ -15,7 +15,7 @@ The app was built mainly using functional components and hooks, also using the f
 # The published To-do App
 - https://armin-suljovikj.github.io/to-do-app/
 
-# Commands to use if you are trying to run this on your machine
+# Commands to use if you are trying to run the code
 
 **Commands used to install Font awesome:**
 
